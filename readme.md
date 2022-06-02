@@ -1,3 +1,1 @@
-### Hello World
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaChrysafis&layout=compact&theme=algolia" alt="Top Languages" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaChrysafis)](https://github.com/anuraghazra/github-readme-stats)
